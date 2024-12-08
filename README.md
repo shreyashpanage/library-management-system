@@ -58,11 +58,3 @@ Basic Authentication: For simplicity, the API does not include robust authentica
 Limited Error Handling: Error handling is basic and could be improved.
 No Pagination: Pagination is not implemented.
 No Data Validation: Input data is not validated, which could lead to unexpected behavior.
-Future Improvements
-
-Implement robust authentication and authorization.
-Add error handling and validation.
-Implement pagination.
-Consider using a more powerful database like PostgreSQL or MySQL for larger-scale applications.
-Explore using a framework like SQLAlchemy for database interactions.
-Add unit tests to ensure code quality.
